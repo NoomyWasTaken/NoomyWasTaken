@@ -101,17 +101,6 @@ Stack: data pipelines • optimization • “make it reproducible” engineerin
 
 ---
 
-## 📈 GitHub stats (optional but cool)
-<div align="center">
-
-<!-- GitHub Readme Stats -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=noomywastaken&show_icons=true&rank_icon=github&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noomywastaken&layout=compact&hide_border=true" />
-
-</div>
-
----
-
 ## 🤝 Let’s connect
 - 💼 LinkedIn: [https://www.linkedin.com/in/neuman-alkhalil/](https://www.linkedin.com/in/neuman-alkhalil/)
 <!-- - 🌐 Portfolio: `ADD_LINK_HERE` -->
